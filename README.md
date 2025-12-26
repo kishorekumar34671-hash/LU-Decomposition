@@ -47,7 +47,8 @@ print(x)
 
 ## Output:
 <img width="1356" height="686" alt="image" src="https://github.com/user-attachments/assets/a2b8e6b2-d4f8-4171-8c75-85620168dac4" />
-![Uploading image.png…]()
+<img width="1157" height="726" alt="image" src="https://github.com/user-attachments/assets/29a9036f-794b-4a48-8f67-dccb1a6f8248" />
+
 
 
 
